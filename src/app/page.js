@@ -1,11 +1,9 @@
-import Cell from '@/components/cell'
+import Table from '@/components/table'
 
 export default function Home () {
   return (
     <>
-      <Cell />
-      <Cell />
-      <Cell />
+      <Table />
     </>
   )
 }
