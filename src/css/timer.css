@@ -1,5 +1,10 @@
 .timer{
-    width: 24px;
+    width: 66px;
     height: 38px; 
     background-color: black;
+}
+
+.num{
+    width: 22px;
+    height: 38px; 
 }

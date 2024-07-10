@@ -2,6 +2,19 @@ import '../css/timer.css'
 
 export default function Timer () {
   return (
-    <dir className='timer' />
+    <div className='timer'>
+      <img
+        className='num'
+        src='scores/d0.png'
+      />
+      <img
+        className='num'
+        src='scores/d0.png'
+      />
+      <img
+        className='num'
+        src='scores/d0.png'
+      />
+    </div>
   )
 }
