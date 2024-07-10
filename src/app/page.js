@@ -1,7 +1,7 @@
-import Gallery from "../components/gallery";
+import Cell from '@/components/cell'
 
-export default function Home() {
+export default function Home () {
   return (
-    <Gallery />
-  );
+    <Cell />
+  )
 }
