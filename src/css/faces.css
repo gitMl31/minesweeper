@@ -1,11 +1,11 @@
-.cells{
+.faces{
     box-sizing: border-box;
     border: 0;
-    
-    width: 24px;
-    height: 24px;   
 
-    background-image: url('../../public/tiles/hiddenCell.png');
+    width: 45px;
+    height: 45px; 
+
+    background-image: url('../../public/faces/normalFace.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
